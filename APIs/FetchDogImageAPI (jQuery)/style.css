@@ -1,0 +1,23 @@
+#dog-image-container{
+    height: 500px;
+    width:100%;
+    margin-top: 10%;
+    margin-left: 4px;
+    display: flex;
+    flex-wrap:wrap;
+   
+}
+#fetch{
+    height:50px;
+    width:150px;
+    margin-top: 5%;
+    margin-left: 50%;
+}
+#dog-image{
+    background-size: contain;
+    height:500px;
+    width:600px;
+    border: 2px solid black;
+
+    
+}
