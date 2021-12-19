@@ -1,0 +1,14 @@
+#getCoursesContainer{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20%;
+    width: 100%;
+    height: 20%;
+    background-color: rgb(186, 224, 247);
+    padding: 5%;
+    min-width: 430px;
+
+}
